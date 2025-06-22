@@ -1,2 +1,5 @@
 # Resumo-Lab-ConstruindoArquiteturasAzure
 Resumo do LAB - Construindo Arquiteturas no Azure
+
+
+Construir arquiteturas no Azure envolve planejar e implementar soluções escaláveis, seguras e resilientes usando os serviços da nuvem. O processo começa com a definição dos requisitos de negócio e técnicos, considerando performance, segurança, disponibilidade e custo. Com o Azure Architecture Center, é possível acessar modelos e boas práticas para diferentes cenários, como aplicações web, microsserviços, big data e IoT. O uso de zonas de disponibilidade e regiões geográficas garante alta disponibilidade e recuperação de desastres. Recursos como Load Balancer, Application Gateway e Front Door ajudam a distribuir tráfego e proteger aplicações. O Azure Active Directory assegura controle de identidade e acesso. Para infraestrutura como código, ferramentas como ARM templates, Bicep ou Terraform facilitam a automação. A integração com DevOps, monitoramento e políticas de governança fecha o ciclo de uma arquitetura bem construída. Com planejamento adequado, o Azure permite criar soluções robustas e alinhadas às necessidades da organização.
